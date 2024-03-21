@@ -10,20 +10,25 @@
 ## Question 2: 
 
 File Path: `./myproject/myproject/spiders/tackleworld.py`
+
 Description: The scrapy crawler that navigates menus, scrapes product data.
 
 File Path:`./myproject/myproject/tackleworld_products.json`
-Description: The output file with scraped data 
+
+Description: The output file with scraped data
 
 ## Question 3: 
 File Path: `./myproject/myproject/spiders/surfboard.py`
+
 Description: The scrapy crawler that loops through each page, and scrapes product data.
 
 File Path: `./myproject/myproject/surfboard_products.json`
+
 Description: The output file with scraped data
 
 ## Question 4: 
 File Path: `./myproject/myproject/regex.py`
+
 Description: The regex python codes file
 
 
