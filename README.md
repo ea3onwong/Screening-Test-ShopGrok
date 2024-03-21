@@ -13,6 +13,8 @@ File Path: `./myproject/myproject/spiders/tackleworld.py`
 
 Description: The scrapy crawler that navigates menus, scrapes product data.
 
+<br>
+
 File Path:`./myproject/myproject/tackleworld_products.json`
 
 Description: The output file with scraped data
@@ -21,6 +23,8 @@ Description: The output file with scraped data
 File Path: `./myproject/myproject/spiders/surfboard.py`
 
 Description: The scrapy crawler that loops through each page, and scrapes product data.
+
+<br>
 
 File Path: `./myproject/myproject/surfboard_products.json`
 
